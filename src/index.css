@@ -1,0 +1,49 @@
+:root {
+  --color-main-white: #ffffff;
+  --color-main-yellow: #ecab03;
+  --color-main-blue: #14152e;
+  --color-light-yellow: linear-gradient(
+    1.87deg,
+    rgba(255, 229, 0, 0.9) -1.18%,
+    rgba(255, 230, 9, 0.435) 3.33%,
+    rgba(255, 231, 23, 0.335) 10.55%,
+    rgba(255, 233, 36, 0.245) 17.77%,
+    rgba(255, 234, 47, 0.17) 25.89%,
+    rgba(255, 234, 56, 0.11) 34.01%,
+    rgba(255, 235, 62, 0.09) 42.13%,
+    rgba(255, 236, 67, 0.04) 51.15%,
+    rgba(255, 236, 70, 0.009) 60.17%,
+    rgba(255, 236, 71, 0) 71.89%
+  );
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* transition: 0.1s ease-in-out; */
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: var(--color-main-white);
+  background-color: var(--color-main-blue);
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+@media screen and (max-width: 768px) {
+  html,
+  body {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 475px) {
+  html,
+  body {
+    font-size: 10px;
+  }
+}
