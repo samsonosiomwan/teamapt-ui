@@ -15,7 +15,7 @@
   position: absolute;
   background-image: url(../../public/Asset/topstars.png);
   width: 80%;
-  top: 10%;
+  top: 11%;
   left: 10%;
   right: 10%;
   background-repeat: no-repeat;
@@ -89,6 +89,7 @@
   display: flex;
   justify-content: center;
   overflow: hidden;
+  width: 90%;
 }
 .section h1 {
   font-weight: 300;
