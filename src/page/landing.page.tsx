@@ -1,4 +1,4 @@
-import { LOGO, BOX_GOLD, CALENDAR, RIGHT_COIN, LEFT_COIN, FOWARD_ICON } from 'assets/assets';
+import { LOGO, BOX_GOLD, CALENDAR, RIGHT_COIN, LEFT_COIN, FOWARD_ICON, STAR, STAR2 } from 'assets/assets';
 import { Spacer, Wheel } from 'component';
 import { animateH, animateO } from 'utils/animation';
 import { motion } from 'framer-motion';
@@ -66,6 +66,13 @@ export const LandingPage = () => {
           <div className={styles.coinContainer}>
             <img src={LEFT_COIN} alt="coin" />
             <img src={RIGHT_COIN} alt="coin" />
+          </div>
+          <div className={styles.starContainer}>
+            <img src={STAR} alt="star" />
+            <img src={STAR} alt="star" />
+            <img src={STAR2} alt="star" />
+            <img src={STAR} alt="star" />
+            <img src={STAR2} alt="star" />
           </div>
         </div>
       </div>

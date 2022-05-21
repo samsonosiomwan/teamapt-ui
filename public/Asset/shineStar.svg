@@ -1,0 +1,25 @@
+<svg width="110" height="109" viewBox="0 0 110 109" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M50.1669 104.105C22.4605 101.689 1.94666 77.405 4.34803 49.8652C6.74941 22.3254 31.1566 1.95848 58.8631 4.37439C86.5695 6.7903 107.083 31.0742 104.682 58.614C102.281 86.1537 77.8734 106.521 50.1669 104.105Z" fill="url(#paint0_radial_8_6029)"/>
+<path opacity="0.03" d="M44.0422 74.2548C32.9206 68.4993 28.5888 54.876 34.3669 43.8263C40.145 32.7765 53.845 28.4846 64.9667 34.24C76.0884 39.9954 80.4202 53.6187 74.642 64.6685C68.8639 75.7183 55.1639 80.0102 44.0422 74.2548Z" fill="#FFE500"/>
+<path opacity="0.03" d="M51.1229 93.1419C29.5077 91.2572 13.5038 72.3121 15.3772 50.827C17.2507 29.3418 36.292 13.4525 57.9072 15.3373C79.5223 17.2221 95.5262 36.1672 93.6528 57.6523C91.7793 79.1375 72.738 95.0267 51.1229 93.1419Z" fill="#FFE500"/>
+<path opacity="0.03" d="M50.1669 104.105C22.4605 101.689 1.94666 77.405 4.34803 49.8652C6.74941 22.3254 31.1566 1.95848 58.8631 4.37439C86.5695 6.7903 107.083 31.0742 104.682 58.614C102.281 86.1537 77.8734 106.521 50.1669 104.105Z" fill="#FFE500"/>
+<rect width="95.891" height="98.2025" transform="matrix(-0.99622 -0.086867 -0.086867 0.99622 106.415 9.97046)" fill="url(#pattern0)"/>
+<path d="M43.3314 41.0006L54.6732 52.427L67.7925 43.1335L56.4747 54.1787L65.6724 67.4475L54.3947 55.6209L41.2113 65.3146L52.6045 54.0731L43.3314 41.0006Z" fill="#FFFC83"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_8_6029" transform="scale(0.030303 0.0294118)"/>
+</pattern>
+<radialGradient id="paint0_radial_8_6029" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-20459.6 9266.97) rotate(-175.017) scale(1745.38 1734.88)">
+<stop stop-color="#FFE500"/>
+<stop offset="0.09" stop-color="#FFE70F" stop-opacity="0.78"/>
+<stop offset="0.2" stop-color="#FFE81E" stop-opacity="0.58"/>
+<stop offset="0.3" stop-color="#FFE92B" stop-opacity="0.4"/>
+<stop offset="0.4" stop-color="#FFEA35" stop-opacity="0.26"/>
+<stop offset="0.51" stop-color="#FFEB3D" stop-opacity="0.14"/>
+<stop offset="0.61" stop-color="#FFEC42" stop-opacity="0.06"/>
+<stop offset="0.71" stop-color="#FFEC46" stop-opacity="0.02"/>
+<stop offset="0.81" stop-color="#FFEC47" stop-opacity="0"/>
+</radialGradient>
+<image id="image0_8_6029" width="33" height="34" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAiCAYAAADRcLDBAAAACXBIWXMAAAsSAAALEgHS3X78AAAB8klEQVRYR82XzXKDMAyEl5D23NftE/R1ey4h7iHe8VqSf0imTTTjsQFjfcgrAUtKCc+202jCf9hLQJxHE5x9fy6jKfj4OrTHy5QmYsfROb/YBFAfona+mL5nyfRdmDZEAdB+QR9GnSdYmAZIDFEDRI2CVhAudEUNUQMFID1hWqdsi/QWIuEGcTVjnePMR+IWhQhgNb2CWIDd9ArlojFKUUKsuZ1zUxAanV3y+YtcIySBK6sjUbTAp7TO33JTEC5MALZNxjtKVJw2okhYUTIShHhHDQLUED+owU65Vw1NbYfVhIUgyJrncP+5PSkfr/AAzkbZoVkRRYMQCUUDBKI2FCDUxEiYgBenwiiERmSDz6CJSLTfD7bZ6NB5VEcgfdNmIhEVmLoK1uPDVvI8ruvqxFZBht42LU5TcLOR0EJEwQHlfgrT1oWECZgeBG/Up2YR4vXdjDeUIuULVAOkBdECoDi1LjA7FHJDvDWhRRBMNwXZUatc6wDvUVjdlqFGem9Rm4paI/Qa4IF1OzzIgbcoF9VjntOaoNe4LbqNw0zpaYJGEC6ixUgh2NtUrp0HpaDUCT9J6W1dUAFucmyzYkqY93zo6rnI1OEwCkAPAmh98tuxNV3wNh78ezzy8zNnD//8RDYCmnBq7TjEH5jPjifYS0D8AllKP9PNU2QIAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>
